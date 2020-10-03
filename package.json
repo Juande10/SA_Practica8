@@ -1,0 +1,28 @@
+{
+  "name": "SA_Practica8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juande10/SA_Practica8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juande10/SA_Practica8/issues"
+  },
+  "homepage": "https://github.com/Juande10/SA_Practica8#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
